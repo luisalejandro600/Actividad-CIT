@@ -28,10 +28,10 @@ width: 96%;
 section{
 	margin-left: 2%;
 	margin-top: 2px;
-width: 63%;
+width: 63.5%;
 background-color: #D74AE4;
 display: inline-block;
-
+float: left;
 
 }
 article{
@@ -43,4 +43,14 @@ width: 47%;
 height: 96%;
 margin: 5px 0.9% ;
 border-radius: 10px;
+}
+aside{
+
+
+display: inline-block;
+width: 32%;
+background-color: #4BCB75;
+margin-top: 2px;
+margin-right: 2%;
+margin-left: 5px;
 }
