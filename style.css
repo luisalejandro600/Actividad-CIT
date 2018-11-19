@@ -1,0 +1,39 @@
+
+html{
+
+height: 100%;
+width: 100%;
+
+}
+body{
+
+height: 100%;
+width: 100%;
+
+}
+
+
+.texto{
+padding-top: 3%;
+text-align: center;
+
+
+font-size: 100px;
+}
+
+.cuadro{
+
+height: 30%;
+border-radius: 20px;
+
+}
+
+header{
+
+margin: auto;
+background-color: #88B3ED;
+width: 95%;
+
+
+
+}
