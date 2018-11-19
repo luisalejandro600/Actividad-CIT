@@ -1,20 +1,8 @@
 
-html{
-
-height: 100%;
-width: 100%;
-
-}
-body{
-
-height: 100%;
-width: 100%;
-
-}
 
 
 .texto{
-padding-top: 3%;
+padding-top: 35px;
 text-align: center;
 
 
@@ -23,17 +11,36 @@ font-size: 100px;
 
 .cuadro{
 
-height: 30%;
+height: 230px;
 border-radius: 20px;
 
 }
 
 header{
 
-margin: auto;
+margin-left: 2%;
 background-color: #88B3ED;
-width: 95%;
+width: 96%;
 
 
 
+}
+section{
+	margin-left: 2%;
+	margin-top: 2px;
+width: 63%;
+background-color: #D74AE4;
+display: inline-block;
+
+
+}
+article{
+
+background-color: #CB6DD4;
+display: inline-block;
+width: 47%;
+
+height: 96%;
+margin: 5px 0.9% ;
+border-radius: 10px;
 }
